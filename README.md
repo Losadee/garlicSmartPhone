@@ -1,2 +1,2 @@
 # garlicSmartPhone
-cow텤 첫프로젝트
+cow텤 첫 프로젝트
