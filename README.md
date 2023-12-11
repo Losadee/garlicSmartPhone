@@ -1,2 +1,2 @@
-# catchMe
-캐치마인드
+# garlicSmartPhone
+cow텤 첫프로젝트
